@@ -48,6 +48,9 @@ sites:
   - name: Share API
     url: https://api.eitri.tech/share-api/health
     maxResponseTime: 5000
+  - name: Push Notification
+    url: https://api.eitri.tech/push-notification-eitri-shop-api/health
+    maxResponseTime: 5000
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80
