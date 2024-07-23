@@ -42,9 +42,6 @@ sites:
   - name: Mini Log
     url: https://api.eitri.tech/mini-log/health
     maxResponseTime: 5000
-  - name: Mini Log
-    url: https://api.eitri.tech/mini-log/health
-    maxResponseTime: 5000
   - name: Vegvisir
     url: https://api.eitri.tech/eitri-vegvisir-api/health
     maxResponseTime: 5000
