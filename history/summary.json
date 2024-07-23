@@ -234,24 +234,6 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Mini Log",
-    "url": "https://api.eitri.tech/mini-log/health",
-    "icon": "https://icons.duckduckgo.com/ip3/api.eitri.tech.ico",
-    "slug": "mini-log",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 92,
-    "timeDay": 92,
-    "timeWeek": 92,
-    "timeMonth": 92,
-    "timeYear": 92,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "Vegvisir",
     "url": "https://api.eitri.tech/eitri-vegvisir-api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.eitri.tech.ico",
@@ -285,6 +267,24 @@
     "timeWeek": 91,
     "timeMonth": 91,
     "timeYear": 91,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Push Notification",
+    "url": "https://api.eitri.tech/push-notification-eitri-shop-api/health",
+    "icon": "https://icons.duckduckgo.com/ip3/api.eitri.tech.ico",
+    "slug": "push-notification",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 49,
+    "timeDay": 49,
+    "timeWeek": 49,
+    "timeMonth": 49,
+    "timeYear": 49,
     "dailyMinutesDown": {}
   }
 ]
