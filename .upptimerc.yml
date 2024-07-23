@@ -9,18 +9,58 @@ sites:
   - name: C&A Dev
     url: https://api.eitri.tech/eitri-manager-api/o/environments/09083bb9-3aeb-45dc-8581-5614cd120820/configure
     maxResponseTime: 5000
-  # - name: Hacker News
-  #   url: https://news.ycombinator.com
-  # - name: Test Broken Site
-  #   url: https://thissitedoesnotexist.koj.co
+  - name: Calindra Prod
+    url: https://api.eitri.tech/eitri-manager-api/o/environments/956b5a02-6615-49b7-872b-a5c18d1a0748/configure
+    maxResponseTime: 5000
+  - name: Calindra Dev
+    url: https://api.eitri.tech/eitri-manager-api/o/environments/6430bc21-7068-4811-a627-b183afa6fd0a/configure
+    maxResponseTime: 5000
+  - name: Toymania Prod
+    url: https://api.eitri.tech/eitri-manager-api/o/environments/a3388e1f-d6ab-4ddc-a5a7-92c2b8e0fb36/configure
+    maxResponseTime: 5000
+  - name: Toymania Dev
+    url: https://api.eitri.tech/eitri-manager-api/o/environments/9804b891-8024-44d2-82d1-26d19e33d5b6/configure
+    maxResponseTime: 5000
+  - name: Scolados Prod
+    url: https://api.eitri.tech/eitri-manager-api/o/environments/0cd805d6-e728-4a51-a356-b2d716cf364e/configure
+    maxResponseTime: 5000
+  - name: Scolados Dev
+    url: https://api.eitri.tech/eitri-manager-api/o/environments/292d923b-3fde-4978-97d0-912ae3209fe2/configure
+    maxResponseTime: 5000
+  - name: Foundry
+    url: https://api.eitri.tech/foundry/health
+    maxResponseTime: 5000
+  - name: Runes Foundry
+    url: https://api.eitri.tech/runes-foundry/health
+    maxResponseTime: 5000
+  - name: Blind Guardian
+    url: https://api.eitri.tech/blind-guardian-api/health
+    maxResponseTime: 5000
+  - name: Eitri Manager API
+    url: https://api.eitri.tech/eitri-manager-api/health
+    maxResponseTime: 5000
+  - name: Mini Log
+    url: https://api.eitri.tech/mini-log/health
+    maxResponseTime: 5000
+  - name: Mini Log
+    url: https://api.eitri.tech/mini-log/health
+    maxResponseTime: 5000
+  - name: Vegvisir
+    url: https://api.eitri.tech/eitri-vegvisir-api/health
+    maxResponseTime: 5000
+  - name: Share API
+    url: https://api.eitri.tech/share-api/health
+    maxResponseTime: 5000
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80
   #   check: "tcp-ping"
   #   ipv6: true
+delay: 1000 # 1 seconds
 assignees:
   - fabiooshiro
-  # - 
+  - lucassdr
+  - gbfonseca
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
