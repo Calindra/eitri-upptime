@@ -40,10 +40,10 @@
     "url": "https://api.eitri.tech/eitri-manager-api/o/environments/956b5a02-6615-49b7-872b-a5c18d1a0748/configure",
     "icon": "https://icons.duckduckgo.com/ip3/api.eitri.tech.ico",
     "slug": "calindra-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
@@ -51,7 +51,9 @@
     "timeWeek": 215,
     "timeMonth": 188,
     "timeYear": 179,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-16": 1
+    }
   },
   {
     "name": "Calindra Dev",
