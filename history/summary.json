@@ -150,19 +150,19 @@
     "url": "https://api.eitri.tech/foundry/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.eitri.tech.ico",
     "slug": "foundry",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 176,
-    "timeDay": 86,
-    "timeWeek": 148,
-    "timeMonth": 184,
-    "timeYear": 176,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 174,
+    "timeDay": 69,
+    "timeWeek": 136,
+    "timeMonth": 180,
+    "timeYear": 174,
     "dailyMinutesDown": {
-      "2024-09-24": 0
+      "2024-09-24": 7
     }
   },
   {
