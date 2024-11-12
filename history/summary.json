@@ -242,18 +242,20 @@
     "url": "https://api.eitri.tech/eitri-vegvisir-api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.eitri.tech.ico",
     "slug": "vegvisir",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 53,
-    "timeDay": 47,
-    "timeWeek": 39,
-    "timeMonth": 50,
-    "timeYear": 53,
-    "dailyMinutesDown": {}
+    "time": 52,
+    "timeDay": 33,
+    "timeWeek": 37,
+    "timeMonth": 49,
+    "timeYear": 52,
+    "dailyMinutesDown": {
+      "2024-11-12": 0
+    }
   },
   {
     "name": "Share API",
