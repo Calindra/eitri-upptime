@@ -1,7 +1,7 @@
 url: https://api.eitri.tech/eitri-vegvisir-api/health
-status: up
-code: 200
-responseTime: 47
-lastUpdated: 2024-11-11T23:17:55.975Z
+status: down
+code: 503
+responseTime: 19
+lastUpdated: 2024-11-12T18:26:23.087Z
 startTime: 2024-07-23T14:27:40.227Z
 generator: Upptime <https://github.com/upptime/upptime>
