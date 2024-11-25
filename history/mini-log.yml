@@ -1,7 +1,7 @@
 url: https://api.eitri.tech/mini-log/health
-status: down
-code: 503
-responseTime: 74
-lastUpdated: 2024-11-25T14:52:18.118Z
+status: up
+code: 200
+responseTime: 18
+lastUpdated: 2024-11-25T14:59:11.793Z
 startTime: 2024-07-23T14:27:37.682Z
 generator: Upptime <https://github.com/upptime/upptime>
