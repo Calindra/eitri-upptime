@@ -26,6 +26,10 @@ sites:
     maxResponseTime: 5000
   - name: Scolados Dev
     url: https://api.eitri.tech/eitri-manager-api/o/environments/292d923b-3fde-4978-97d0-912ae3209fe2/configure
+  - name: Canal Dev
+    url: https://api.eitri.tech/eitri-manager-api/o/environments/f7cfafbf-2088-46ef-b6d9-12d562c0d5fd/configure
+  - name: Canal Prod
+    url: https://api.eitri.tech/eitri-manager-api/o/environments/cc6d2570-7ec8-4577-8da2-fa9f2dab8ad1/configure
     maxResponseTime: 5000
   - name: Foundry
     url: https://api.eitri.tech/foundry/health
