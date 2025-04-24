@@ -14,7 +14,7 @@ sites:
     maxResponseTime: 5000
   - name: Calindra Dev
     url: https://api.eitri.tech/eitri-manager-api/o/environments/6430bc21-7068-4811-a627-b183afa6fd0a/configure
-    maxResponseTime: 5000
+    maxResponseTime: 10000
   - name: Toymania Prod
     url: https://api.eitri.tech/eitri-manager-api/o/environments/a3388e1f-d6ab-4ddc-a5a7-92c2b8e0fb36/configure
     maxResponseTime: 5000
