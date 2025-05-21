@@ -4,19 +4,19 @@
     "url": "https://api.eitri.tech/eitri-manager-api/o/environments/37c66d3b-f88c-44b1-b0a9-7b3adabf968e/configure",
     "icon": "https://icons.duckduckgo.com/ip3/api.eitri.tech.ico",
     "slug": "c-and-a-prod",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 234,
-    "timeDay": 290,
-    "timeWeek": 269,
-    "timeMonth": 272,
+    "timeDay": 227,
+    "timeWeek": 251,
+    "timeMonth": 267,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2025-05-21": 1
+      "2025-05-21": 10
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://api.eitri.tech/eitri-manager-api/o/environments/09083bb9-3aeb-45dc-8581-5614cd120820/configure",
     "icon": "https://icons.duckduckgo.com/ip3/api.eitri.tech.ico",
     "slug": "c-and-a-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 167,
-    "timeDay": 199,
-    "timeWeek": 195,
-    "timeMonth": 206,
-    "timeYear": 167,
+    "time": 166,
+    "timeDay": 145,
+    "timeWeek": 177,
+    "timeMonth": 201,
+    "timeYear": 166,
     "dailyMinutesDown": {
-      "2025-05-21": 1
+      "2025-05-21": 10
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://api.eitri.tech/eitri-manager-api/o/environments/956b5a02-6615-49b7-872b-a5c18d1a0748/configure",
     "icon": "https://icons.duckduckgo.com/ip3/api.eitri.tech.ico",
     "slug": "calindra-prod",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 161,
-    "timeDay": 198,
-    "timeWeek": 183,
-    "timeMonth": 194,
+    "timeDay": 144,
+    "timeWeek": 167,
+    "timeMonth": 189,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2025-05-21": 1,
+      "2025-05-21": 10,
       "2024-09-16": 20
     }
   },
@@ -65,19 +65,19 @@
     "url": "https://api.eitri.tech/eitri-manager-api/o/environments/6430bc21-7068-4811-a627-b183afa6fd0a/configure",
     "icon": "https://icons.duckduckgo.com/ip3/api.eitri.tech.ico",
     "slug": "calindra-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.97%",
     "time": 163,
-    "timeDay": 230,
-    "timeWeek": 196,
-    "timeMonth": 201,
+    "timeDay": 165,
+    "timeWeek": 178,
+    "timeMonth": 197,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2025-05-21": 1,
+      "2025-05-21": 10,
       "2025-04-24": 118
     }
   },
@@ -86,19 +86,19 @@
     "url": "https://api.eitri.tech/eitri-manager-api/o/environments/a3388e1f-d6ab-4ddc-a5a7-92c2b8e0fb36/configure",
     "icon": "https://icons.duckduckgo.com/ip3/api.eitri.tech.ico",
     "slug": "toymania-prod",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 160,
-    "timeDay": 198,
-    "timeWeek": 200,
-    "timeMonth": 197,
-    "timeYear": 160,
+    "time": 161,
+    "timeDay": 308,
+    "timeWeek": 237,
+    "timeMonth": 207,
+    "timeYear": 161,
     "dailyMinutesDown": {
-      "2025-05-21": 1
+      "2025-05-21": 11
     }
   },
   {
@@ -106,19 +106,19 @@
     "url": "https://api.eitri.tech/eitri-manager-api/o/environments/9804b891-8024-44d2-82d1-26d19e33d5b6/configure",
     "icon": "https://icons.duckduckgo.com/ip3/api.eitri.tech.ico",
     "slug": "toymania-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 166,
-    "timeDay": 202,
-    "timeWeek": 208,
-    "timeMonth": 209,
-    "timeYear": 166,
+    "time": 165,
+    "timeDay": 151,
+    "timeWeek": 190,
+    "timeMonth": 204,
+    "timeYear": 165,
     "dailyMinutesDown": {
-      "2025-05-21": 1
+      "2025-05-21": 11
     }
   },
   {
@@ -126,19 +126,19 @@
     "url": "https://api.eitri.tech/eitri-manager-api/o/environments/0cd805d6-e728-4a51-a356-b2d716cf364e/configure",
     "icon": "https://icons.duckduckgo.com/ip3/api.eitri.tech.ico",
     "slug": "scolados-prod",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 219,
-    "timeWeek": 188,
-    "timeMonth": 196,
+    "timeDay": 183,
+    "timeWeek": 179,
+    "timeMonth": 193,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2025-05-21": 1
+      "2025-05-21": 10
     }
   },
   {
@@ -146,19 +146,19 @@
     "url": "https://api.eitri.tech/eitri-manager-api/o/environments/292d923b-3fde-4978-97d0-912ae3209fe2/configure",
     "icon": "https://icons.duckduckgo.com/ip3/api.eitri.tech.ico",
     "slug": "scolados-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 166,
-    "timeDay": 207,
-    "timeWeek": 204,
-    "timeMonth": 205,
-    "timeYear": 166,
+    "time": 165,
+    "timeDay": 149,
+    "timeWeek": 185,
+    "timeMonth": 200,
+    "timeYear": 165,
     "dailyMinutesDown": {
-      "2025-05-21": 1
+      "2025-05-21": 10
     }
   },
   {
@@ -166,19 +166,19 @@
     "url": "https://api.eitri.tech/eitri-manager-api/o/environments/f7cfafbf-2088-46ef-b6d9-12d562c0d5fd/configure",
     "icon": "https://icons.duckduckgo.com/ip3/api.eitri.tech.ico",
     "slug": "canal-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 188,
-    "timeDay": 188,
-    "timeWeek": 187,
-    "timeMonth": 188,
-    "timeYear": 188,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 183,
+    "timeDay": 136,
+    "timeWeek": 170,
+    "timeMonth": 183,
+    "timeYear": 183,
     "dailyMinutesDown": {
-      "2025-05-21": 1
+      "2025-05-21": 10
     }
   },
   {
@@ -186,19 +186,19 @@
     "url": "https://api.eitri.tech/eitri-manager-api/o/environments/cc6d2570-7ec8-4577-8da2-fa9f2dab8ad1/configure",
     "icon": "https://icons.duckduckgo.com/ip3/api.eitri.tech.ico",
     "slug": "canal-prod",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 157,
-    "timeDay": 194,
-    "timeWeek": 163,
-    "timeMonth": 157,
-    "timeYear": 157,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 153,
+    "timeDay": 140,
+    "timeWeek": 148,
+    "timeMonth": 153,
+    "timeYear": 153,
     "dailyMinutesDown": {
-      "2025-05-21": 1
+      "2025-05-21": 11
     }
   },
   {
@@ -208,9 +208,9 @@
     "slug": "foundry",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.88%",
     "time": 160,
     "timeDay": 201,
@@ -218,7 +218,7 @@
     "timeMonth": 185,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2025-05-21": 1,
+      "2025-05-21": 11,
       "2024-11-15": 500,
       "2024-09-24": 7
     }
@@ -230,9 +230,9 @@
     "slug": "runes-foundry",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.88%",
     "time": 60,
     "timeDay": 63,
@@ -240,7 +240,7 @@
     "timeMonth": 62,
     "timeYear": 60,
     "dailyMinutesDown": {
-      "2025-05-21": 1,
+      "2025-05-21": 11,
       "2024-11-15": 500
     }
   },
@@ -251,9 +251,9 @@
     "slug": "blind-guardian",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.88%",
     "time": 49,
     "timeDay": 61,
@@ -261,7 +261,7 @@
     "timeMonth": 55,
     "timeYear": 49,
     "dailyMinutesDown": {
-      "2025-05-21": 1,
+      "2025-05-21": 11,
       "2024-11-15": 500
     }
   },
@@ -272,9 +272,9 @@
     "slug": "eitri-manager-api",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.88%",
     "time": 50,
     "timeDay": 58,
@@ -282,7 +282,7 @@
     "timeMonth": 55,
     "timeYear": 50,
     "dailyMinutesDown": {
-      "2025-05-21": 1,
+      "2025-05-21": 11,
       "2024-11-15": 500
     }
   },
@@ -293,9 +293,9 @@
     "slug": "mini-log",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.88%",
     "time": 49,
     "timeDay": 57,
@@ -303,7 +303,7 @@
     "timeMonth": 54,
     "timeYear": 49,
     "dailyMinutesDown": {
-      "2025-05-21": 1,
+      "2025-05-21": 11,
       "2024-11-25": 7,
       "2024-11-15": 500
     }
@@ -315,9 +315,9 @@
     "slug": "vegvisir",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.88%",
     "time": 49,
     "timeDay": 65,
@@ -325,7 +325,7 @@
     "timeMonth": 54,
     "timeYear": 49,
     "dailyMinutesDown": {
-      "2025-05-21": 1,
+      "2025-05-21": 11,
       "2024-11-15": 500,
       "2024-11-12": 16
     }
@@ -337,9 +337,9 @@
     "slug": "share-api",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.88%",
     "time": 50,
     "timeDay": 58,
@@ -347,7 +347,7 @@
     "timeMonth": 57,
     "timeYear": 50,
     "dailyMinutesDown": {
-      "2025-05-21": 0,
+      "2025-05-21": 11,
       "2024-11-15": 510
     }
   },
@@ -358,9 +358,9 @@
     "slug": "push-notification",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.88%",
     "time": 49,
     "timeDay": 56,
@@ -368,7 +368,7 @@
     "timeMonth": 54,
     "timeYear": 49,
     "dailyMinutesDown": {
-      "2025-05-21": 0,
+      "2025-05-21": 11,
       "2024-11-15": 510
     }
   },
@@ -378,18 +378,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.eitri.tech.ico",
     "slug": "valkyrie-api",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.85%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.85%",
     "time": 47,
     "timeDay": 55,
     "timeWeek": 52,
     "timeMonth": 53,
     "timeYear": 47,
     "dailyMinutesDown": {
-      "2025-05-21": 0,
+      "2025-05-21": 11,
       "2024-11-15": 511
     }
   },
@@ -400,9 +400,9 @@
     "slug": "analytics",
     "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.85%",
     "time": 45,
     "timeDay": 55,
@@ -410,7 +410,7 @@
     "timeMonth": 52,
     "timeYear": 45,
     "dailyMinutesDown": {
-      "2025-05-21": 0,
+      "2025-05-21": 10,
       "2024-11-15": 511,
       "2024-09-24": 9
     }
