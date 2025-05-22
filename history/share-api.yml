@@ -1,7 +1,7 @@
 url: https://api.eitri.tech/share-api/health
-status: down
-code: 404
-responseTime: 11
-lastUpdated: 2025-05-21T23:20:29.088Z
+status: up
+code: 200
+responseTime: 20
+lastUpdated: 2025-05-22T00:29:08.367Z
 startTime: 2024-07-23T14:27:41.702Z
 generator: Upptime <https://github.com/upptime/upptime>
