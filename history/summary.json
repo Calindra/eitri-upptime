@@ -344,7 +344,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.eitri.tech.ico",
     "slug": "share-api",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -459,6 +459,24 @@
     "timeWeek": 42,
     "timeMonth": 45,
     "timeYear": 47,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Eitri Hugin",
+    "url": "https://api.eitri.tech/eitri-hugin-api/health",
+    "icon": "https://icons.duckduckgo.com/ip3/api.eitri.tech.ico",
+    "slug": "eitri-hugin",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 9,
+    "timeDay": 9,
+    "timeWeek": 9,
+    "timeMonth": 9,
+    "timeYear": 9,
     "dailyMinutesDown": {}
   }
 ]
