@@ -67,6 +67,9 @@ sites:
   - name: Mailer API
     url: https://api.eitri.tech/eitri-mailer-api/health
     maxResponseTime: 5000
+  - name: Eitri Hugin
+    url: https://api.eitri.tech/eitri-hugin-api/health
+    maxResponseTime: 5000
 
   # - name: IPv6 test
   #   url: forwardemail.net
