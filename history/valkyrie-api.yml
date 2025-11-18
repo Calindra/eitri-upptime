@@ -1,7 +1,7 @@
 url: https://api.eitri.tech/eitri-valkyrie-api/health
-status: down
-code: 500
-responseTime: 5
-lastUpdated: 2025-11-18T11:57:01.415Z
+status: up
+code: 200
+responseTime: 91
+lastUpdated: 2025-11-18T12:32:23.355Z
 startTime: 2024-09-17T17:58:03.651Z
 generator: Upptime <https://github.com/upptime/upptime>
