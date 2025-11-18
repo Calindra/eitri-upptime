@@ -1,7 +1,7 @@
 url: https://api.eitri.tech/eitri-hugin-api/health
-status: down
-code: 500
-responseTime: 6
-lastUpdated: 2025-11-18T13:09:58.926Z
+status: up
+code: 200
+responseTime: 89
+lastUpdated: 2025-11-18T14:41:56.880Z
 startTime: 2025-10-20T17:39:25.659Z
 generator: Upptime <https://github.com/upptime/upptime>
