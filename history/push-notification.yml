@@ -1,7 +1,7 @@
 url: https://api.eitri.tech/push-notification-eitri-shop-api/health
-status: down
-code: 500
-responseTime: 7
-lastUpdated: 2025-11-18T13:09:44.230Z
+status: up
+code: 200
+responseTime: 88
+lastUpdated: 2025-11-18T14:41:39.302Z
 startTime: 2024-07-23T16:16:59.586Z
 generator: Upptime <https://github.com/upptime/upptime>
