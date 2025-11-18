@@ -1,7 +1,7 @@
 url: https://api.eitri.tech/foundry/health
-status: up
-code: 200
-responseTime: 344
-lastUpdated: 2025-11-18T12:31:53.154Z
+status: down
+code: 500
+responseTime: 5
+lastUpdated: 2025-11-18T13:09:21.581Z
 startTime: 2024-07-23T14:27:31.638Z
 generator: Upptime <https://github.com/upptime/upptime>
