@@ -31,6 +31,36 @@ sites:
   - name: Canal Prod
     url: https://api.eitri.tech/eitri-manager-api/o/environments/cc6d2570-7ec8-4577-8da2-fa9f2dab8ad1/configure
     maxResponseTime: 5000
+  - name: Americanas
+    url: https://api.eitri.tech/eitri-manager-api/o/environments/8115d9c7-108b-48d3-8b5a-e69fb6d9fc9d/configure
+    maxResponseTime: 5000
+  - name: BlackSkull
+    url: https://api.eitri.tech/eitri-manager-api/o/environments/dba1f66d-7e72-4ee3-8f3b-4caecdbb676c/configure
+    maxResponseTime: 5000
+  - name: EitriPlay
+    url: https://api.eitri.tech/eitri-manager-api/o/environments/c1b01b5b-397a-428e-8884-27adfa9a0ef6/configure
+    maxResponseTime: 5000
+  - name: Ladeira
+    url: https://api.eitri.tech/eitri-manager-api/o/environments/80722bba-8aaf-4782-b1ae-3690fdddfa91/configure
+    maxResponseTime: 5000
+  - name: LojasTorra
+    url: https://api.eitri.tech/eitri-manager-api/o/environments/39b09fe1-7713-4b73-b551-681b7525f3a3/configure
+    maxResponseTime: 5000
+  - name: MundoVerde
+    url: https://api.eitri.tech/eitri-manager-api/o/environments/c6bdfbb7-72c3-481b-bd5d-968ce4a3ebee/configure
+    maxResponseTime: 5000
+  - name: Polishop
+    url: https://api.eitri.tech/eitri-manager-api/o/environments/448fc7a8-0c33-48ae-981a-c5e3183daf51/configure
+    maxResponseTime: 5000
+  - name: Shoulder
+    url: https://api.eitri.tech/eitri-manager-api/o/environments/e673ba1c-ac50-4bd7-bed5-41c75782042e/configure
+    maxResponseTime: 5000
+  - name: DrogariaVenancio
+    url: https://api.eitri.tech/eitri-manager-api/o/environments/90daab12-b354-4261-b724-9620aacf8bd2/configure
+    maxResponseTime: 5000
+  - name: Seedtime
+    url: https://api.eitri.tech/eitri-manager-api/o/environments/6a84551e-e2da-4970-8022-27ee0b5a38d9/configure
+    maxResponseTime: 5000
   - name: Foundry
     url: https://api.eitri.tech/foundry/health
     maxResponseTime: 5000
