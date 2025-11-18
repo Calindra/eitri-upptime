@@ -1,7 +1,7 @@
 url: https://api.eitri.tech/analytics/health
-status: down
-code: 500
-responseTime: 6
-lastUpdated: 2025-11-18T13:09:50.711Z
+status: up
+code: 200
+responseTime: 87
+lastUpdated: 2025-11-18T14:41:47.217Z
 startTime: 2024-09-17T17:58:04.978Z
 generator: Upptime <https://github.com/upptime/upptime>
