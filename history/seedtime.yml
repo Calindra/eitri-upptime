@@ -1,7 +1,7 @@
 url: https://api.eitri.tech/eitri-manager-api/o/environments/6a84551e-e2da-4970-8022-27ee0b5a38d9/configure
-status: down
-code: 500
-responseTime: 25
-lastUpdated: 2025-11-18T15:42:28.968Z
+status: up
+code: 200
+responseTime: 49
+lastUpdated: 2025-11-18T15:53:27.238Z
 startTime: 2025-11-18T14:52:22.694Z
 generator: Upptime <https://github.com/upptime/upptime>
