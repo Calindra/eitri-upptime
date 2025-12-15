@@ -100,6 +100,13 @@ sites:
   - name: Eitri Hugin
     url: https://api.eitri.tech/eitri-hugin-api/health
     maxResponseTime: 5000
+  - name: Eitri Content (ECS)
+    url: https://beta-content.eitri.tech/admin
+    maxResponseTime: 20000
+  - name: Eitri Content (K8s)
+    url: https://api.eitri.tech/eitri-content/health
+    maxResponseTime: 5000
+  
 
   # - name: IPv6 test
   #   url: forwardemail.net
