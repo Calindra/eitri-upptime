@@ -1,0 +1,88 @@
+# Change these first
+owner: calindra # Your GitHub organization or username, where this repository lives
+repo: eitri-upptime # The name of this repository
+
+sites:
+  - name: Eitri Play
+    url: https://api.eitri.tech/eitri-manager-api/o/environments/c1b01b5b-397a-428e-8884-27adfa9a0ef6/configure
+    maxResponseTime: 5000
+  - name: Foundry
+    url: https://api.eitri.tech/foundry/health
+    maxResponseTime: 5000
+  - name: Runes Foundry
+    url: https://api.eitri.tech/runes-foundry/health
+    maxResponseTime: 5000
+  - name: Blind Guardian
+    url: https://api.eitri.tech/blind-guardian-api/health
+    maxResponseTime: 5000
+  - name: Eitri Manager API
+    url: https://api.eitri.tech/eitri-manager-api/health
+    maxResponseTime: 5000
+  - name: Mini Log
+    url: https://api.eitri.tech/mini-log/health
+    maxResponseTime: 5000
+  - name: Vegvisir
+    url: https://api.eitri.tech/eitri-vegvisir-api/health
+    maxResponseTime: 5000
+  - name: Share API
+    url: https://api.eitri.tech/share-api/health
+    maxResponseTime: 5000
+  - name: Push Notification
+    url: https://api.eitri.tech/push-notification-eitri-shop-api/health
+    maxResponseTime: 5000
+  - name: Valkyrie API
+    url: https://api.eitri.tech/eitri-valkyrie-api/health
+    maxResponseTime: 5000
+  - name: Analytics
+    url: https://api.eitri.tech/analytics/health
+    maxResponseTime: 5000
+  - name: Mailer API
+    url: https://api.eitri.tech/eitri-mailer-api/health
+    maxResponseTime: 5000
+  - name: Eitri Hugin
+    url: https://api.eitri.tech/eitri-hugin-api/health
+    maxResponseTime: 5000
+  - name: Eitri Content (ECS)
+    url: https://beta-content.eitri.tech/admin
+    maxResponseTime: 20000
+  - name: Eitri Content (K8s)
+    url: https://api.eitri.tech/eitri-content/health
+    maxResponseTime: 5000
+  
+
+  # - name: IPv6 test
+  #   url: forwardemail.net
+  #   port: 80
+  #   check: "tcp-ping"
+  #   ipv6: true
+delay: 1000 # 1 seconds
+assignees:
+  - fabiooshiro
+  - lucassdr
+  - gbfonseca
+
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  # cname: demo.upptime.js.org
+  baseUrl: /eitri-upptime
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Upptime
+  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/30 * * * *"
